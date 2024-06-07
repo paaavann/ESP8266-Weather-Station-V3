@@ -19,7 +19,7 @@ Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
 
 const char* ssid = "PaavanWiFiGuest";
 const char* password = "1234PAAVAN";
-String openWeatherMapApiKey = "b00104e9e6b00a9cac171d84802c340c";
+String openWeatherMapApiKey = "xxxxxxxxxxxxxxxxxxxxx";
 String city = "Rajkot";
 String countryCode = "IN";
 
